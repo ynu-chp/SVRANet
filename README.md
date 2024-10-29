@@ -1,6 +1,7 @@
 ## Introduction
 
-This is the Pytorch implementation of our paper:`Transformer-Based Mechanism Design for Semantic Communications IoV Crowdsensing Service` .
+This is the Pytorch implementation of our paper:`Deep Learning-Based Reverse Auction Mechanism for Semantic
+	Communications IoV Crowdsensing Services` .
 
 
 ## Requirements
